@@ -23,7 +23,7 @@
         <button>9</button>
         <button class="operator">*</button>
     </div>
-<div>
+    <div>
         <button>4</button>
         <button>5</button>
         <button>6</button>
@@ -41,6 +41,6 @@
         <button>.</button>
         <button class="ope">=</button>
     </div>
-    <script src="calc.js"></script>
+<script src="calc.js"></script>
 </body>
 </html>
