@@ -42,6 +42,30 @@ input{
     text-align:right;
     cursor:pointer;
 }
+button{
+    border:1px solid white;
+    width:80px;
+    height:80px;
+    margin:10px;
+    border-radius: 50%;
+    background:transparent;
+    color:white;
+    font-size: 25px;
+    cursor:pointer;
+}
+.ac{
+    background-color: rgb(255, 255, 255);
+    color:rgb(255, 0, 0);
+}
+.operator{
+    color:rgb(0, 255, 0);
+}
+.op{
+    color:red;
+}
+.ope{
+    background-color:orangered;
+}
 </style>
 </head>
 <body>
