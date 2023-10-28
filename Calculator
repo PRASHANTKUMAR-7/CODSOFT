@@ -101,6 +101,13 @@ button{
         <button>.</button>
         <button class="ope">=</button>
     </div>
-<script src="calc.js"></script>
+<script src="calc.js">
+let input= document.getElementById('inputbox');
+let buttons= document.querySelectorAll('button');
+let string = "";
+let arr = Array.from(buttons);
+arr.forEach(button => {
+    button.addEventListener('click', (e) =>{
+</script>
 </body>
 </html>
