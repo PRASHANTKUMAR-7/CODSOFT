@@ -12,3 +12,37 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap" rel="stylesheet">
     <style>
+    </style> 
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+        <div class="logo">
+            <img src="logo.png" alt="logo" width="250px" height="100px">
+        </div>
+        <ul>
+            <li><a href="#" class="hh">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Color</a></li>
+            <li><a href="#">Feature</a></li>
+            <li><a href="#">Contacts</a></li>
+            <li><a href="#"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+        </ul>
+    </nav>
+    <main>
+        <div class="left">
+            <p class="num">2023</p>
+            <h1>Nike<br>flyEase</h1>
+            <p class="description">Ditch the laces and get outside.These kicks feature Nike's revolutionary FlyEase technology, making on-and-off a breeze. With a heel that pivots open for a totally hands-free entry, they're great for people with limited mobility—or anyone who wants a quicker way to get going.
+                lorem200
+            </p>
+            <button class="btn">SHOP NOW</button>
+        </div>
+        <diV class="right">
+            <img src="shoes.png" alt="SHOES">
+        </diV>
+    </main>
+    </header> 
+<footer>&#169 This Website is Under section 13 of the Copyright Act 1957 India. </footer>  
+</body>
+</html>
