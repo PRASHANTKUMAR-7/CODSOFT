@@ -42,6 +42,17 @@
             <img src="shoes.png" alt="SHOES">
         </diV>
     </main>
+    <main>
+        <diV class="right">
+            <img src="jorden.png" alt="SHOES">
+        </diV>
+        <div class="left">
+            <h1>Nike<br>Air Jordan</h1>
+            <p class="description">Air Jordan is a line of basketball shoes produced by Nike, Inc. Related apparel and accessories are marketed under Jordan Brand. The silhouette of Michael Jordan served as inspiration to create the "Jumpman" logo.
+            </p>
+            <button class="btn1">SHOP NOW</button>
+        </div>        
+    </main>
     </header> 
 <footer>&#169 This Website is Under section 13 of the Copyright Act 1957 India. </footer>  
 </body>
