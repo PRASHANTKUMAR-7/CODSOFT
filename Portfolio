@@ -404,4 +404,87 @@
         </div>
       </div>
     </section>
+  <!-- "PROJECTS" SECTION -->
+
+    <section class="thirdSection">
+      <div class="projects">
+        <big><u>
+            <h1>Projects</h1>
+          </u></big>
+
+        <div class="LandingPage">
+
+          <h3>1.Landing Page Project</h3>
+
+          <p style="font-size: 22px">Brief Description: I have made a very basic Landing Page Website using the basic
+            knowledge of HTML and
+            CSS. This was also one of the projects mentioned in Level 1 in my CodSoft Virtual Internship.</p>
+
+          <br><br>
+          <p style="font-size: 22px">In this project I want tomake a site of my favorite shoe brand which is Nike and I have tried  my best to make it beautiful.<br>My landing page is divided into three section which include Top center bottom.<br>The top section contained logo and nav bar of lending page.<br>
+
+            In the Center section I have mentioned the The Best seller shoes of Nike Brandwith its emails and its quality and little bit description about the shoes Which shop now button. 
+          </p>
+          <br><br>
+          <p style="font-size: 22px">Important sectionI used footer where I described the copyright laws.
+          </p>
+          <br><br>
+          <button class="LandingButton">Visit
+            the Project Site Here</button>
+          <img src="lp1.png" alt="LANDING PAGE PROJECT IMAGE" width="850px"
+            style="margin-top: 7%; border-radius: 23px;">
+          <img src="lp2.png" alt="LANDING PAGE PROJECT IMAGE" width=850px class="landing_image">
+        </div>
+
+        <div class="calculator">
+            <h3>2.Calculator Project</h3>
+  
+            <p style="font-size: 22px">Brief Description: The calculator project was one of the Level 1 tasks in my
+              Virtual Internship at CodSoft.
+              <br>
+  
+              This Project helped me to apply basic HTML and CSS and JS skills and also helped me to gain knowledge about how
+              JavaScript is applied in Websites as well.
+            </p>
+  
+            <img src="cal1.png" alt="LANDING PAGE PROJECT IMAGE" width="850px"
+            style="margin-top: 7%; border-radius: 23px;">
+          <img src="cal2.png" alt="LANDING PAGE PROJECT IMAGE" width=850px class="landing_image">
+  
+  
+  
+            <button class="calc_button">Visit Calculator Site</button>
+  
+          </div>
+    </section>
+
+    <!-- "RESUME " SECTION -->
+
+    <section class="fourthSection">
+
+      <div class="resume">
+        <h3>My Resume</h3>
+      <button class="resumebnt"><a href="resume.pdf"></a>Click Here to Download</button>
+
+      </div>
+    </section>
+    <section class="fifthSection">
+        <div class="contact_info">
+
+          <h4>Send Mail Here:<br><a href="mailto:kumarprashant7852@gmail.com" target="_blank">Mail</a> </h4>
+
+
+          <h4>Contact Number: 92xxxxxxx0</h4>
+
+          <h4>Linkedin:<br><a href="https://www.linkedin.com/in/prashant-kumar-55b83824b/" taget="_blank">Linkedin Profile</a>
+          </h4>
+        </div>
+      </section>
+  </main>
+  <footer>
+    <p>&#169 The copyright owner retains all exclusive rights to reproduce, distribute, display, and perform the work. Any unauthorized use, reproduction, or distribution of this work, in whole or in part, is strictly prohibited &nbsp; without the written permission of the copyright owner under Copyright Act 1957 of ndian Constitution.</p>
+  </footer>
+</body>
+
+</html>
 
