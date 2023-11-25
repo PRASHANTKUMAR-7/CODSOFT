@@ -104,6 +104,22 @@
 	text-decoration: none;
 	color: #fff;
     }
+.left .btn:hover{
+	background-color: #fafafa;
+	color: #ff0000;
+	font-family: 'Orbitron', sans-serif;
+	transition: 0.5s;
+	cursor: pointer;
+    }
+    .left .btn1{
+	margin: 0px;
+	background-color: #111;
+	padding: 10px 10px;
+	font-family: 'Big Shoulders Stencil Display', cursive;
+	font-size: 20px;
+	text-decoration: none;
+	color: #fff;
+    }
     
     </style>  
 </head>
