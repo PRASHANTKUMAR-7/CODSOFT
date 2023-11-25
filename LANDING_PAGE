@@ -12,7 +12,100 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap" rel="stylesheet">
     <style>
-    </style> 
+         body{
+    margin:0;
+    padding:0;
+	background-color: #d8d8d8;
+    }
+    header{
+    background-color: #d8d8d8;
+	height: 100%;
+	width:100%;
+	background-image: url("back.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+    }   
+    nav{
+    display: flex;
+    justify-content: space-between;
+    }
+    nav ul li{
+    display: inline-block;
+	padding: 10px 10px;
+	margin-right: 25px;
+    }   
+    .hh{
+	font-weight: bold;
+    }
+    nav ul li a .hh:hover{
+	color: #999;
+	font-style: italic;
+	font-weight: bolder;
+    }
+    nav ul li a{
+    text-decoration: none;
+	color: #333;
+	font-size: 30px;
+	font-family: 'Roboto',sans-serif;
+    }
+    nav ul li a:hover{
+	color: #ff0000;
+	font-family: 'Orbitron', sans-serif;
+	font-weight: bolder;
+    font-style: italic;
+    }
+    nav ul li .active{
+	font-size: 22px;
+	color: #000000;
+	font-family: 'Roboto',sans-serif;
+	font-weight: bold;
+    }
+    nav .logo{
+	margin: 0px 0px;
+    }
+    .fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    }
+    main{
+	display: flex;
+	justify-content: space-between;
+    }
+    .left{
+	width: 45%;
+	padding-left: 50px;
+    }
+    .left .num{
+	font-family: 'Big Shoulders Stencil Display', cursive;
+	font-size: 35px; 
+    }
+    .left h1{
+	font-family: 'Anton', sans-serif;
+	font-size: 60px;
+	letter-spacing: 2px;
+    }
+    .left .description{
+	margin:0;
+	color: #000;
+	font-size: 18px;
+	font-family: 'Roboto',sans-serif;
+	padding-bottom: 10px;
+
+    }
+    .left .btn{
+	margin: 0px;
+	background-color: #111;
+	padding: 10px 10px;
+	font-family: 'Big Shoulders Stencil Display', cursive;
+	font-size: 20px;
+	text-decoration: none;
+	color: #fff;
+    }
+    
+    </style>  
 </head>
 <body>
     <header>
