@@ -127,13 +127,16 @@
 	transition: 0.5s;
 	cursor: pointer;
     }
-.right img{
+    .right img{
 	height: 550px;
 	margin-right: 0px;
     }
-   
-    
-    
+    footer{
+    background-color: black;
+    width: 100%;
+    height: auto;
+    color: white;
+    }    
     </style>  
 </head>
 <body>
