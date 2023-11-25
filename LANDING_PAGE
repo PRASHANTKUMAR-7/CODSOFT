@@ -33,7 +33,9 @@
         <div class="left">
             <p class="num">2023</p>
             <h1>Nike<br>flyEase</h1>
-            <p class="description">Ditch the laces and get outside.These kicks feature Nike's revolutionary FlyEase technology, making on-and-off a breeze. With a heel that pivots open for a totally hands-free entry, they're great for people with limited mobility—or anyone who wants a quicker way to get going.
+            <p class="description">Ditch the laces and get outside.These kicks feature Nike's revolutionary FlyEase technology, 
+            making on-and-off a breeze. With a heel that pivots open for a totally hands-free entry, they're great for people with 
+            limited mobility—or anyone who wants a quicker way to get going.
                 lorem200
             </p>
             <button class="btn">SHOP NOW</button>
@@ -48,7 +50,9 @@
         </diV>
         <div class="left">
             <h1>Nike<br>Air Jordan</h1>
-            <p class="description">Air Jordan is a line of basketball shoes produced by Nike, Inc. Related apparel and accessories are marketed under Jordan Brand. The silhouette of Michael Jordan served as inspiration to create the "Jumpman" logo.
+            <p class="description">Air Jordan is a line of basketball shoes produced by Nike, 
+            Inc. Related apparel and accessories are marketed under Jordan Brand. The silhouette 
+            of Michael Jordan served as inspiration to create the "Jumpman" logo.
             </p>
             <button class="btn1">SHOP NOW</button>
         </div>        
