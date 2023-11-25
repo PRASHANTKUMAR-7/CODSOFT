@@ -120,6 +120,14 @@
 	text-decoration: none;
 	color: #fff;
     }
+.left .btn1:hover{
+	background-color: #fafafa;
+	color: #005eff;
+	font-family: 'Orbitron', sans-serif;
+	transition: 0.5s;
+	cursor: pointer;
+    }
+    
     
     </style>  
 </head>
